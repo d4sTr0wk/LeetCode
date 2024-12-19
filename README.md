@@ -6,5 +6,5 @@
 
 ID | Título | Solución
 ---|--------|----------
-1|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](https://github.com/d4sTr0wk/LeetCode/blob/main/srcs/1-Two-Sum/two-sum.py), [C](https://github.com/d4sTr0wk/LeetCode/blob/main/srcs/1-Two-Sum/two-sum.c), [Go](https://github.com/d4sTr0wk/LeetCode/blob/main/srcs/1-Two-Sum/two-sum.go)
+1|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](https://github.com/d4sTr0wk/LeetCode/blob/main/srcs/1-Two-Sum/two-sum.py), [C](https://github.com/d4sTr0wk/LeetCode/blob/main/srcs/1-Two-Sum/two-sum.c), [Go](https://github.com/d4sTr0wk/LeetCode/blob/main/srcs/1-Two-Sum/two-sum.go), [Java](https://github.com/d4sTr0wk/LeetCode/blob/main/srcs/1-Two-Sum/two-sum.java)
 2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C](https://github.com/d4sTr0wk/LeetCode/blob/main/srcs/2-Add-Two-Numbers/add-two-numbers.c)
